@@ -15,6 +15,7 @@ How to run command:
     python mailClient.py
 
 A dummy gmail test account has been provided to test and run the program on the Google mail server
+
 The credentials are provided below
 
 Gmail Test Account:
