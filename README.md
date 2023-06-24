@@ -4,7 +4,7 @@ SMPT protocol
 
 Before you are ready, make sure that the appropriate emails are in place:
 
-Replace lines 12 and 13 with the email you will use to send the emails
+Replace lines 12 and 13 with the email and password you will use to send the emails
 
 Replace line 75 with the email that will be used to send the email, the email from line 12
 
