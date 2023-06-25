@@ -22,3 +22,8 @@ Gmail Test Account:
 
 User: imathrowaway888@gmail.com
 password: peszeihabczcfsgs
+
+Group Members:
+Edmond Tongyou tongyouedmond@csu.fullerton.edu
+Javier Diaz    jdiaz194@csu.fullerton.edu
+Jaysen Gomez   gomezjesse27@csu.fullerton.edu
